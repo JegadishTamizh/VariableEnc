@@ -13,4 +13,4 @@
 
 - [Main Source](https://github.com/1Danish-00/CompressorBot)
 
-https://heroku.com/deploy?template=https://github.com/JegadishTamizh/Custom-Variable
+https://heroku.com/deploy?template=https://github.com/JegadishTamizh/VariableEnc
